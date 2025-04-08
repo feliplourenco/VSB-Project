@@ -1,11 +1,11 @@
-# React + Vite
-
-Este modelo fornece uma configuração mínima para que o React funcione no Vite com HMR e algumas regras ESLint.
-
-Atualmente, dois plugins oficiais estão disponíveis:
-
-@vitejs/plugin-react usa Babel para atualização rápida
-@vitejs/plugin-react-swc usa SWC para atualização rápida
+# Como rodar o projeto na sua máquina
+  - Instale o node.js em sua máquina
+  - Instale o VS Code
+  - Clone este repositório na máquina
+  - Inicie um prompt de comando dentro do repositorio vsb-project
+  - Com a pasta vsb-project aberta no cmd, digite: code .
+  - Quando VS Code abrir na pasta do projeto, abra o terminal e digite: npm run dev
+  - Acesse o local host e a tela inicial do projeto irá abrir no Google Chrome.
 
 ## Links que podem ajudar
 
