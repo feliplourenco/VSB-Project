@@ -13,4 +13,10 @@ If you are developing a production application, we recommend using TypeScript an
 
 ## Links que podem ajudar
 
-https://www.youtube.com/watch?v=iNewmFYHjIw
+Dowload do Node.JS (Necessário para utilizar VITE): https://nodejs.org/pt
+
+O que é VITE e instalação: https://www.youtube.com/watch?v=iNewmFYHjIw
+
+VS Code: https://code.visualstudio.com/
+
+Tiptap Editor: https://tiptap.dev/docs/editor/getting-started/install/react
