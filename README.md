@@ -9,6 +9,10 @@
 
 ## Links que podem ajudar
 
+Dowload do git: https://git-scm.com/downloads/win
+
+Como clonar um repositório: https://www.youtube.com/watch?v=5ctmK6fV1NQ
+
 Dowload do Node.JS (Necessário para utilizar VITE): https://nodejs.org/pt
 
 O que é VITE e instalação: https://www.youtube.com/watch?v=iNewmFYHjIw
@@ -16,3 +20,5 @@ O que é VITE e instalação: https://www.youtube.com/watch?v=iNewmFYHjIw
 VS Code: https://code.visualstudio.com/
 
 Tiptap Editor: https://tiptap.dev/docs/editor/getting-started/install/react
+
+Como subir meu projeto no github e fazer um commit: https://youtu.be/kbWbRx3-9IY?si=osfGtqgyNyld4EB1
